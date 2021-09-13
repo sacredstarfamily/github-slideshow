@@ -1,4 +1,4 @@
-timezone:    Europe/Berlin
+timezone:    pacific
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
 # baseurl:     "/github-slideshow"
@@ -18,8 +18,8 @@ plugins:
 
 ## personalize your slide show
 title:       github-slideshow
-author:      GitHubTeacher
-description: A fun activity for learning Git and GitHub.
+author:      sacredstarfamily
+description: A fun slideshow for maykinfund.
 
 sass:
   style:     :compressed
